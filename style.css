@@ -1,0 +1,47 @@
+#search{
+  width: 400px;
+  margin: 21% auto;
+  justify-content: center;
+}
+
+#input{
+  margin: 20px;
+  background-color: blanchedalmond;
+}
+
+.card-title{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#bodycontent{
+
+  background-image: url("https://img5.goodfon.com/wallpaper/nbig/f/75/pomidory-tomaty-kompozitsiia-chernyi-fon-temnyi-fon.jpg");
+  display: flex;
+  height: 100%;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  background-attachment: fixed;
+  justify-content: center;
+}
+
+
+#results {
+  display: inline-block;
+  margin: 30 auto;
+}
+
+#cards{
+  display: inline-flex;
+
+  padding: 10px;
+  padding-top: 30px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+#cards:hover {
+  padding-left: 5px;
+}
